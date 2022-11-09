@@ -1,2 +1,2 @@
-# My-first-API
+# My-fast-API
 Introduction to Fast API 
